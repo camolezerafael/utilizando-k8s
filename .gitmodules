@@ -1,0 +1,3 @@
+[submodule "desafio-go"]
+	path = desafio-go
+	url = https://github.com/camolezerafael/k8s-desafio-go
