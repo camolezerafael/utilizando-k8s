@@ -13,8 +13,8 @@
     Repo Folder: [mysql](mysql)
    
 3. Desafio Go
-   1. Aplicativo webserver em Go | Repo Folder: [desafio-go](desafio-go/src/desafio-go)
-   2. Trigger de CI para cada PR | File build & test [cloudbuid.yaml](desafio-go/cloudbuild.yaml)
+   1. Aplicativo webserver em Go | Repo Folder: [desafio-go](https://github.com/camolezerafael/k8s-desafio-go/tree/master/src/desafio-go)
+   2. Trigger de CI para cada PR | File build & test [cloudbuid.yaml](https://github.com/camolezerafael/k8s-desafio-go/blob/master/cloudbuild.yaml)
    3. Imagem publicada no Docker Hub | [Link Docker Hub](https://hub.docker.com/r/camolezerafael/desafio-go-webserver-greeting)
    4. Load Balancer webserver em Go no GCP | [Load Balancer no GCP](http://104.154.134.235/)
 
